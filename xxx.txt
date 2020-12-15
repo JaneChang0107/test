@@ -2,4 +2,9 @@
 xxxxx
 =======
 xxxxx
+<<<<<<< HEAD
 >>>>>>> 34de0bfe5044c9093617c65b23a611e087832800
+=======
+
+test
+>>>>>>> parent of 6d2f486 (yyy)
